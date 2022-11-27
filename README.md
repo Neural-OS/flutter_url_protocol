@@ -1,4 +1,4 @@
-# `url_protocol`
+# `flutter_url_protocol`
 
 A unified library to register custom URL protocol handlers across supported platforms.
 
@@ -15,7 +15,7 @@ Windows and Linux (coming soon) platforms.
 Use the following to register or unregister a URL handler protocol.
 
 ```dart
-import 'package:url_protocol/url_protocol.dart';
+import 'package:flutter_url_protocol/flutter_url_protocol.dart';
 
 void main() {
   // Register a new custom URL protocol handler. Opening test-url-protocol://test

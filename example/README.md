@@ -1,6 +1,6 @@
 # url_protocol_example
 
-Demonstrates how to use the url_protocol plugin.
+Demonstrates how to use the flutter_url_protocol plugin.
 
 ## Getting Started
 

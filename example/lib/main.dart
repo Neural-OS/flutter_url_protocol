@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:url_protocol/url_protocol.dart';
+import 'package:flutter_url_protocol/flutter_url_protocol.dart';
 
 void main() {
   // Register a new custom URL protocol handler. Opening test-url-protocol://test
